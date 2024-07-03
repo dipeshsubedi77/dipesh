@@ -1,0 +1,104 @@
+
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* background: #0bc2c2;
+     */
+}
+.animated{
+    width: max-content;
+    height: 400px;
+    margin-left: 60%;
+    margin-top: 10%;
+    
+    
+    
+}
+li{
+    list-style-type: none;
+    font-size: 18px;
+    font-family: sans-serif;
+
+}
+
+.margin{
+    margin-left:40px;
+    margin-right: 40px;
+    background-color:;
+
+}
+
+.nabar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
+    
+}
+
+ul{
+    display: flex;
+    margin-right: 10px;
+
+
+    padding-left: 20px;
+}
+
+li{
+    display: inline-block;
+    padding-left: 30px;
+}
+.navitems{
+    padding: 10px;
+}
+
+.body1{
+    padding:0,30px;
+    display: flex;
+    height: 100vh;
+    background-image: url("/video/programming-background-with-person-working-with-codes-computer.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+     
+    
+}
+h1{
+    padding: 30px;
+}
+p{
+    
+    text-align: center;
+    margin-top: 30px;
+    padding: 30px;
+    margin-left: -4%;
+}
+.left{
+    
+    height: max-content;
+    width: 40%;
+    margin-left: 2.5%;
+    text-align: left;
+    margin-top: 10%
+}
+
+
+.right{
+    margin-top: 15px;
+    height: max-content;
+    width: 40%;
+    margin-left: 17%;
+    text-align: left;
+    margin-top: 10%;
+    
+}
+h2{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 300;
+}
+iframe{
+    margin-right: 5%;
+}
